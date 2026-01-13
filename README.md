@@ -73,16 +73,9 @@
 </div>
 
 ## 📂 Featured Projects
-<p align="center">
-  <svg width="120" height="30">
-    <text x="0" y="20" font-size="16" fill="#888">
-      Processing
-      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+<p align="left">
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Projects in progress — actively building portfolio-ready Data Science & Analytics projects.)]></a>
 </p>
-🚧 Projects in progress — actively building portfolio-ready Data Science & Analytics projects.
-
 ---
 
 ## 📌 What I’m Currently Working On
