@@ -73,6 +73,14 @@
 </div>
 
 ## 📂 Featured Projects
+<p align="center">
+  <svg width="120" height="30">
+    <text x="0" y="20" font-size="16" fill="#888">
+      Processing
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
 🚧 Projects in progress — actively building portfolio-ready Data Science & Analytics projects.
 
 ---
