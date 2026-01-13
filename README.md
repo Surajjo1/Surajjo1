@@ -74,7 +74,27 @@
 
 ## 📂 Featured Projects
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=035DC5&lines=Projects+coming+soon+—+actively+building+data+analytics+%26+ML+projects)](https://git.io/typing-svg)
+<p align="center">
+  <svg width="520" height="45" viewBox="0 0 520 45" xmlns="http://www.w3.org/2000/svg">
+    <!-- Box -->
+    <rect x="1" y="1" width="518" height="43" rx="8" ry="8"
+          fill="none" stroke="#035DC5" stroke-width="2"/>
+
+    <!-- Moving Text -->
+    <text x="-480" y="28"
+          font-size="14"
+          fill="#035DC5"
+          font-family="Arial, Helvetica, sans-serif">
+      Projects coming soon — actively building data analytics &amp; ML projects
+      <animate
+        attributeName="x"
+        from="-480"
+        to="520"
+        dur="10s"
+        repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
 
 ---
 
