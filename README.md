@@ -79,8 +79,6 @@
     <!-- Box -->
     <rect x="1" y="1" width="518" height="43" rx="8" ry="8"
           fill="none" stroke="#035DC5" stroke-width="2"/>
-
-    <!-- Moving Text -->
     <text x="-480" y="28"
           font-size="14"
           fill="#035DC5"
