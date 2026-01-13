@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Suraj John
 
-<!--
-**Surajjo1/Surajjo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring **Data Scientist & Data Analyst** with a strong foundation in data analysis, statistics, and machine learning.  
+📊 Passionate about solving real-world problems using data-driven approaches.  
+🚀 Currently building projects in Data Analytics, Machine Learning, and Generative AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Tools
+
+### 📊 Data Analysis
+- Excel (Pivot Tables, Dashboards)
+- SQL (Joins, Subqueries, Window Functions)
+- Python (Pandas, NumPy, Sklearn)
+
+### 🤖 Data Science
+- Statistics & Probability
+- Machine Learning (Regression, Classification)
+- Exploratory Data Analysis (EDA)
+
+### 📈 Visualization
+- Power BI
+- Tableau
+- Matplotlib, Seaborn
+
+### 🛠 Tools & Platforms
+- Git & GitHub
+- MySQL
+- Jupyter Notebook
+
+---
+
+## 📂 Featured Projects
+🚧 Projects in progress — actively building portfolio-ready Data Science & Analytics projects.
+
+---
+
+## 📌 What I’m Currently Working On
+- End-to-end Data Analytics projects
+- Machine Learning models with real datasets
+- Interactive dashboards & insights
+- SQL & Python problem-solving
+
+---
+
+## 📬 Connect With Me
+- LinkedIn: www.linkedin.com/in/suraj-john-9a8546244
+- Email: surajjon899@gmail.com
