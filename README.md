@@ -75,22 +75,7 @@
 ## 📂 Featured Projects
 
 <p align="center">
-  <svg width="520" height="45" viewBox="0 0 520 45" xmlns="http://www.w3.org/2000/svg">
-    <rect x="1" y="1" width="518" height="43" rx="8" ry="8"
-          fill="none" stroke="#035DC5" stroke-width="2"/>
-    <text x="-480" y="28"
-          font-size="14"
-          fill="#035DC5"
-          font-family="Arial, Helvetica, sans-serif">
-      Projects coming soon — actively building data analytics &amp; ML projects
-      <animate
-        attributeName="x"
-        from="-480"
-        to="520"
-        dur="10s"
-        repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="520" />
 </p>
 
 ---
