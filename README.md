@@ -76,7 +76,6 @@
 
 <p align="center">
   <svg width="520" height="45" viewBox="0 0 520 45" xmlns="http://www.w3.org/2000/svg">
-    <!-- Box -->
     <rect x="1" y="1" width="518" height="43" rx="8" ry="8"
           fill="none" stroke="#035DC5" stroke-width="2"/>
     <text x="-480" y="28"
