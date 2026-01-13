@@ -45,6 +45,19 @@
   </div>
 </div>
 ---
+<div>
+  <a href="https://drive.google.com/file/d/1ZIVqVAqr6-elktB-EHfpvnBZlFdDb7IN/view" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Analysis-ExcelR-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis - ExcelR" />
+  </a>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/WMTMHCKBBYEN" target="_blank">
+    <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20(IBM)-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning with PyTorch - IBM" />
+  </a>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/XGHIYMUBNQ0N" target="_blank">
+    <img src="https://img.shields.io/badge/Deep%20Learning-Keras%20%26%20Neural%20Networks%20(IBM)-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning & Neural Networks with Keras - IBM" />
+  </a>
+</div>
 
 ## 📂 Featured Projects
 🚧 Projects in progress — actively building portfolio-ready Data Science & Analytics projects.
