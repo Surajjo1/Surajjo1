@@ -74,8 +74,9 @@
 
 ## 📂 Featured Projects
 <p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Projects in progress — actively building portfolio-ready Data Science & Analytics projects.)]></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Engineer;6%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
 </p>
+    
 ---
 
 ## 📌 What I’m Currently Working On
