@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suraj John
+# 👋 Hi, All
 
 🎯 Aspiring **Data Scientist & Data Analyst** with a strong foundation in data analysis, statistics, and machine learning.  
 📊 Passionate about solving real-world problems using data-driven approaches.  
@@ -7,30 +7,43 @@
 <a href="https://www.linkedin.com/in/suraj-john-9a8546244" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<details>
+  <summary>More about me</summary>
+
+- **Name**: Suraj John
+- **From**: India
+- **Data scientist** | **Data Analyst** | **MachIne Learnig**
+- I have experience in Data Anaysis and machine Learning
+- Continuously improving my knowledge of **Data Science** and **Data Engineering**.
+- I’m currently learning and exploring **Advanced DataScience**, **Machine Learnig Engineering**, and **Ai Engineering**.
+
+</details>
+<br>
+
 ---
 
-## 🧠 Skills & Tools
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
-### 📊 Data Analysis
-- Excel (Pivot Tables, Dashboards)
-- SQL (Joins, Subqueries, Window Functions)
-- Python (Pandas, NumPy, Sklearn)
+<br>
 
-### 🤖 Data Science
-- Statistics & Probability
-- Machine Learning (Regression, Classification)
-- Exploratory Data Analysis (EDA)
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science" />
+    <img src="https://img.shields.io/badge/Data%20Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+    <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+    <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+    <img src="https://img.shields.io/badge/Statistics-000000?style=for-the-badge&logo=mathworks&logoColor=white" alt="Statistics" />
+    <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 
-### 📈 Visualization
-- Power BI
-- Tableau
-- Matplotlib, Seaborn
-
-### 🛠 Tools & Platforms
-- Git & GitHub
-- MySQL
-- Jupyter Notebook
-
+  </div>
+</div>
 ---
 
 ## 📂 Featured Projects
