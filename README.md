@@ -4,6 +4,7 @@
 📊 Passionate about solving real-world problems using data-driven approaches.  
 🚀 Currently building projects in Data Analytics, Machine Learning, and Generative AI.
 
+<a href="www.linkedin.com/in/suraj-john-9a8546244"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
 
 ## 🧠 Skills & Tools
