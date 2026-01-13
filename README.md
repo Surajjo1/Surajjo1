@@ -75,7 +75,7 @@
 ## 📂 Featured Projects
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="520" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=16&pause=1000&color=035DC5&center=true&vCenter=true&width=520&height=45&lines=Projects+coming+soon+—+actively+building+data+analytics+%26+ML+projects" />
 </p>
 
 ---
