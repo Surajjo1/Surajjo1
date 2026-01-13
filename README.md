@@ -45,6 +45,8 @@
   </div>
 </div>
 ---
+<h2 id="Certifications" align=''> Certifications </h2>
+
 <div>
   <a href="https://drive.google.com/file/d/1ZIVqVAqr6-elktB-EHfpvnBZlFdDb7IN/view" target="_blank">
     <img src="https://img.shields.io/badge/Data%20Analysis-ExcelR-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis - ExcelR" />
