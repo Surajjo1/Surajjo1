@@ -22,7 +22,7 @@
 <br>
 
 ---
-<h2>🧰 Languages & Tools I Have Placed My Hands On</h2>
+<h2 align="center">🧰 Languages & Tools I Have Placed My Hands On</h2>
 
 <p align="Center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
