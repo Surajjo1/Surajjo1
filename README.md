@@ -46,6 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 <h2 id="Certifications" align=''> Certifications </h2>
