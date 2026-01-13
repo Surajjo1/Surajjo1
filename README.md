@@ -86,10 +86,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/suraj-john-9a8546244" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:surajjon899@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="40" alt="Email"/>
   </a>
 </p>
