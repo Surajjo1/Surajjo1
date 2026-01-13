@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" />
 </p>
 <p align="Center">
-  <img src="https://cdn.worldvectorlogo.com/logo/power-bi-2" width="45" alt="Power BI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="45" alt="Power BI" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" alt="Tableau" />
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="45" alt="Excel" />
 </p>
@@ -82,6 +82,14 @@
 
 ---
 
-## 📬 Connect With Me
-- LinkedIn: www.linkedin.com/in/suraj-john-9a8546244
-- Email: surajjon899@gmail.com
+<h2>📬 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/suraj-john-9a8546244" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:surajjon899@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
