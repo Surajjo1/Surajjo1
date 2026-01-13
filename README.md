@@ -56,16 +56,19 @@
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
+  <!-- Data Analysis (Blue) -->
   <a href="https://drive.google.com/file/d/1ZIVqVAqr6-elktB-EHfpvnBZlFdDb7IN/view" target="_blank">
-    <img src="https://img.shields.io/badge/Data%20Analysis-ExcelR-000000?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis - ExcelR" />
+    <img src="https://img.shields.io/badge/Data%20Analysis-ExcelR-0072B1?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis - ExcelR" />
   </a>
 
+  <!-- Deep Learning - PyTorch (Red) -->
   <a href="https://www.coursera.org/account/accomplishments/verify/WMTMHCKBBYEN" target="_blank">
-    <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20(IBM)-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning with PyTorch - IBM" />
+    <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20(IBM)-D32F2F?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning with PyTorch - IBM" />
   </a>
 
+  <!-- Deep Learning - Keras (Red) -->
   <a href="https://www.coursera.org/account/accomplishments/verify/XGHIYMUBNQ0N" target="_blank">
-    <img src="https://img.shields.io/badge/Deep%20Learning-Keras%20%26%20Neural%20Networks%20(IBM)-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning & Neural Networks with Keras - IBM" />
+    <img src="https://img.shields.io/badge/Deep%20Learning-Keras%20%26%20Neural%20Networks%20(IBM)-D32F2F?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning & Neural Networks with Keras - IBM" />
   </a>
 </div>
 
