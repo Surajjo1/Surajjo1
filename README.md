@@ -75,7 +75,7 @@
 ## 📂 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=16&pause=1000&color=035DC5&center=true&vCenter=true&width=520&height=45&lines=Projects+coming+soon+—+actively+building+data+analytics+%26+ML+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=16&pause=1000&color=035DC5&center=true&vCenter=true&width=520&height=45&lines=Projects+coming+soon+—+actively+building+data+science+%26+ML+projects" />
 </p>
 
 ---
