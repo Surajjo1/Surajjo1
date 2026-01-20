@@ -92,7 +92,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/suraj-john-9a8546244" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:surajjon899@gmail.com">
